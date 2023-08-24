@@ -16,7 +16,7 @@ const Navbar = () => {
         </button>
       </div>
       <PageLink parentClass="nav-links" itemClass="nav-link"/>
-      <SocialLink/>
+      <SocialLink parentClass="nav-icon" itemClass="nav-icon"/>
       
 
       {/* <ul className="nav-icons">
