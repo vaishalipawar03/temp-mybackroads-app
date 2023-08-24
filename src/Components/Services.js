@@ -6,7 +6,7 @@ import Service from "./Service"
 const Services = () => {
   return (
     <section className="section services" id="services">
-      <Title  title='Our' subtitle='SServices'/>
+      <Title  title='Our' subtitle=' Famous Services'/>
       <Service/>
     
     {/* <div className="section-center services-center">
