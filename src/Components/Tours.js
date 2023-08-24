@@ -4,7 +4,7 @@ import Tour from "./Tour"
 // import tour2 from "../images/tour-2.jpeg"
 // import tour3 from "../images/tour-3.jpeg"
 // import tour4 from "../images/tour-4.jpeg"
-import { tours } from "./data"
+
 
 const Tours = () => {
   return (
