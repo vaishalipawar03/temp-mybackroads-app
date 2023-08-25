@@ -78,7 +78,7 @@ export const tours =[
         tourPrice:'from $3300'
   
       },
-      { id : 4,
+      { id : 5,
         img :  tour4 ,
         tourDate: 'Dec 7th, 2020',
         tourTitle:'Kenya Highlights',  
@@ -88,7 +88,7 @@ export const tours =[
         tourPrice:'from $3300'
   
       }
-    { id : 4,
+    { id : 6,
         img :  tour4 ,
         tourDate: 'Dec 7th, 2020',
         tourTitle:'Kenya Highlights',  
@@ -98,7 +98,7 @@ export const tours =[
         tourPrice:'from $3300'
   
       },
-      { id : 4,
+      { id : 7,
         img :  tour4 ,
         tourDate: 'Dec 7th, 2020',
         tourTitle:'Kenya Highlights',  
