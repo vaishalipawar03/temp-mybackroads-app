@@ -88,4 +88,24 @@ export const tours =[
         tourPrice:'from $3300'
   
       }
+    { id : 4,
+        img :  tour4 ,
+        tourDate: 'Dec 7th, 2020',
+        tourTitle:'Kenya Highlights',  
+        tourDescription:'Lorem ipsum dolor sit amet, consectetur adipisicing elCumque  vitae tempore voluptatum maxime reprehenderit eum qu exercitationem fugit, qui corporis',
+        tourPlace:'Kenya',
+        tourDuration:'20 days',
+        tourPrice:'from $3300'
+  
+      },
+      { id : 4,
+        img :  tour4 ,
+        tourDate: 'Dec 7th, 2020',
+        tourTitle:'Kenya Highlights',  
+        tourDescription:'Lorem ipsum dolor sit amet, consectetur adipisicing elCumque  vitae tempore voluptatum maxime reprehenderit eum qu exercitationem fugit, qui corporis',
+        tourPlace:'Kenya',
+        tourDuration:'20 days',
+        tourPrice:'from $3300'
+  
+      }
 ]
