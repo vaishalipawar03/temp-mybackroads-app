@@ -87,7 +87,7 @@ export const tours =[
         tourDuration:'20 days',
         tourPrice:'from $3300'
   
-      }
+      },
     { id : 6,
         img :  tour4 ,
         tourDate: 'Dec 7th, 2020',
